@@ -1,0 +1,18 @@
+# wheel
+# setuptools
+# pandas
+# kagglehub
+# matplotlib
+# seaborn
+python-dotenv
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-opencv
+transformers
+gradio
+notebook
+ipywidgets
+warnings
+tqdm
+langchain_text_splitters
